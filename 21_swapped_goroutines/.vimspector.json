@@ -1,0 +1,15 @@
+{
+  "configurations": {
+    "run": {
+      "adapter": "vscode-go",
+      "configuration": {
+        "request": "launch",
+        "program": "/home/mustafa/practice/books/go_in_action/mine/21_swapped_goroutines/main.go",
+        "mode": "debug",
+        "showLog": "true",
+        "trace": "log",
+        "dlvToolPath": "/home/mustafa/go/bin/dlv"
+      }
+    }
+  }
+}
